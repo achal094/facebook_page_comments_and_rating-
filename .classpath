@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Achal/Desktop/facebook/page post/poi-3.8-beta3.jar/poi-3.8-beta3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Achal/Desktop/facebook/page post/restfb-1.42.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
